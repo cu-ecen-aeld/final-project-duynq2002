@@ -1,0 +1,4 @@
+KEYPAD.c:3:13:KEYPAD_Delay	16	static
+KEYPAD.c:7:6:KEYPAD4X4_Init	32	static
+KEYPAD.c:48:6:KEYPAD4X4_Readkey	24	static
+KEYPAD.c:71:6:KEYPAD4x4_Config	24	static
